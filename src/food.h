@@ -1,7 +1,8 @@
+/*
 #pragma once
 
-class Food
-{
+class Food {
+
 public:
     Food();
     void Update();
@@ -11,4 +12,6 @@ private:
     int x;
     int y;
     int radius;
+
 };
+*/

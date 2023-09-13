@@ -1,3 +1,4 @@
+/*
 #include "food.h"
 #include <raylib.h>
 
@@ -17,3 +18,4 @@ void Food::Draw()
 {
     DrawCircle(x, y, radius, WHITE);
 }
+*/
